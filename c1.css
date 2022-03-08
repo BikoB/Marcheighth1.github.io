@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=Marck+Script&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Bad+Script&subset=latin,cyrillic);
+body{
+  background-color: #949476;
+  background-image: url(https://subtlepatterns.com/patterns/skulls.png);
+}
+h1{
+  font-family: 'Marck Script', cursive;
+  font-size: 80px;
+  color: #ff00ff;
+  text-align: center;
+  text-shadow: 5px 4px 7px black;
+}
+p{
+  text-align: center;
+  font-family: 'Bad Script', cursive;
+  color: #0900ff;
+}
+//©
